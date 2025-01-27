@@ -2,9 +2,7 @@
 
 ## Contributors
 - **Shail Patel**: [patels86@montclair.edu](mailto:patels86@montclair.edu)
-- **Kun Hee Lim**: [link1@montclair.edu](mailto:link1@montclair.edu)
-- **Patrick Rudnicki**: [rudnickip1@montclair.edu](mailto:rudnickip1@montclair.edu)
-
+  
 Project Website: [BigAl Avenue](https://cyan.csam.montclair.edu/~rudnicp1/DB-Project/Updated/)
 
 Demo Account:
